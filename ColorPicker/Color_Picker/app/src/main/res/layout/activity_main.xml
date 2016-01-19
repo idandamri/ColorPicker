@@ -131,7 +131,8 @@
                     android:layout_height="match_parent"
                     android:text="New Button"
                     android:id="@+id/button"
-                    android:layout_weight="1" />
+                    android:layout_weight="1"
+                    android:background="@mipmap/ic_launcher"/>
             </LinearLayout>
 
             <LinearLayout
